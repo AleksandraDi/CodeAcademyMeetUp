@@ -7,3 +7,7 @@ def print_hello():
 def print_hi():
 	print("Hi Branch!")
 ```
+```python
+def print_homework()
+	print("homework")
+```
